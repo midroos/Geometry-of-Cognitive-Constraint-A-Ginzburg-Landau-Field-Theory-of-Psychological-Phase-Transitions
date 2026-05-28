@@ -1,0 +1,2 @@
+# Geometry-of-Cognitive-Constraint-A-Ginzburg-Landau-Field-Theory-of-Psychological-Phase-Transitions
+Computational simulations and geometric models accompanying “The Geometry of Cognitive Constraint: A Ginzburg-Landau Field Theory of Psychological Phase Transitions”. Includes UDMM historical dynamics, cognitive friction models, structural memory simulations, hysteresis effects, and multiscale psychological phase transition modeling.
